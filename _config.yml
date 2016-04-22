@@ -1,0 +1,28 @@
+name: Evil Sarah
+favicon: null
+layout_spectrum: 0.5266250404529274
+typography_spectrum: 0.9291775682941079
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.05656088376417756
+  lightness: 0.8354069676715881
+  saturation: 0.33962261443957686
+  rhythmicContrast: 0.48591323266737163
+purpose: []
