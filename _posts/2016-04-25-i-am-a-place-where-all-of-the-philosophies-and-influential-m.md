@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I am a place where all of the philosophies and influential moments that I've experienced all meld together inside of my mind. There is nowhere else in the universe that everyone that I have met or learned about can all meet together."
-datePublished: '2016-04-25T20:00:43.077Z'
-dateModified: '2016-04-25T20:00:16.766Z'
+datePublished: '2016-04-25T20:01:49.139Z'
+dateModified: '2016-04-25T20:00:50.789Z'
 title: ''
 author:
   - name: ''
