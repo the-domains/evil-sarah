@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Sweet succulent berries, so ripe, so pendulous, hanging on the wet vine glistening with morning dew. Can't wait to savor the juicy pleasures of my sweet succulent berry."
-datePublished: '2016-04-25T19:21:41.520Z'
-dateModified: '2016-04-25T19:20:57.632Z'
+datePublished: '2016-04-25T19:24:00.564Z'
+dateModified: '2016-04-25T19:22:52.921Z'
 title: ''
 author:
   - name: ''
@@ -24,4 +24,4 @@ url: sweet-succulent-berries-so-ripe-so-pendulous-hanging-on-t/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d327645677cb071f8f9c1155f24915a1eef9f9.jpg)
+![Sweet succulent berries, so ripe, so pendulous, hanging on the wet vine glistening with morning dew. Can't wait to savor the juicy pleasures of my sweet succulent berry.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d327645677cb071f8f9c1155f24915a1eef9f9.jpg)
