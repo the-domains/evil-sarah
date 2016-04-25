@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Sweet succulent berries, so ripe, so pendulous, hanging on the wet vine glistening with morning dew. Can't wait to savor the juicy pleasures of my sweet succulent berry."
-datePublished: '2016-04-25T20:15:05.259Z'
-dateModified: '2016-04-25T19:25:04.409Z'
+description: "I am a place where all of the philosophies and influential moments that I've experienced all meld together inside of my mind. There is nowhere else in the universe that everyone that I have met or learned about can all meet together."
+datePublished: '2016-04-25T21:22:41.539Z'
+dateModified: '2016-04-25T21:21:33.551Z'
 title: ''
 author:
   - name: ''
@@ -24,4 +24,6 @@ url: sweet-succulent-berries-so-ripe-so-pendulous-hanging-on-t/index.html
 _type: Article
 
 ---
-![Sweet succulent berries, so ripe, so pendulous, hanging on the wet vine glistening with morning dew. Can't wait to savor the juicy pleasures of my sweet succulent berry.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d327645677cb071f8f9c1155f24915a1eef9f9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d327645677cb071f8f9c1155f24915a1eef9f9.jpg)
+
+I am a place where all of the philosophies and influential moments that I've experienced all meld together inside of my mind. There is nowhere else in the universe that everyone that I have met or learned about can all meet together.
