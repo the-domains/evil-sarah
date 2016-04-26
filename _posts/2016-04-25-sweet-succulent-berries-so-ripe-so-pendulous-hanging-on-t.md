@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "I am a place where all of the philosophies and influential moments that I've experienced all meld together inside of my mind. There is nowhere else in the universe that everyone that I have met or learned about can all meet together."
-datePublished: '2016-04-25T21:22:41.539Z'
-dateModified: '2016-04-25T21:21:33.551Z'
+description: "Sweet succulent berries, so ripe, so pendulous, hanging on the wet vine glistening with morning dew... can't wait to savor the juicy pleasures of my sweet succulent berry."
+datePublished: '2016-04-26T01:31:16.507Z'
+dateModified: '2016-04-26T01:30:50.597Z'
 title: ''
 author:
   - name: ''
@@ -26,4 +26,4 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d327645677cb071f8f9c1155f24915a1eef9f9.jpg)
 
-I am a place where all of the philosophies and influential moments that I've experienced all meld together inside of my mind. There is nowhere else in the universe that everyone that I have met or learned about can all meet together.
+Sweet succulent berries, so ripe, so pendulous, hanging on the wet vine glistening with morning dew... can't wait to savor the juicy pleasures of my sweet succulent berry.
